@@ -1,0 +1,11 @@
+C:\Users\anuar\source\repos\EntityFirstSecond\EntityFirstSecond\bin\Debug\EntityFirstSecond.exe.config
+C:\Users\anuar\source\repos\EntityFirstSecond\EntityFirstSecond\bin\Debug\EntityFirstSecond.exe
+C:\Users\anuar\source\repos\EntityFirstSecond\EntityFirstSecond\bin\Debug\EntityFirstSecond.pdb
+C:\Users\anuar\source\repos\EntityFirstSecond\EntityFirstSecond\bin\Debug\EntityFramework.dll
+C:\Users\anuar\source\repos\EntityFirstSecond\EntityFirstSecond\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anuar\source\repos\EntityFirstSecond\EntityFirstSecond\bin\Debug\EntityFramework.xml
+C:\Users\anuar\source\repos\EntityFirstSecond\EntityFirstSecond\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anuar\source\repos\EntityFirstSecond\EntityFirstSecond\obj\Debug\EntityFirstSecond.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\EntityFirstSecond\EntityFirstSecond\obj\Debug\EntityFirstSecond.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\EntityFirstSecond\EntityFirstSecond\obj\Debug\EntityFirstSecond.exe
+C:\Users\anuar\source\repos\EntityFirstSecond\EntityFirstSecond\obj\Debug\EntityFirstSecond.pdb
